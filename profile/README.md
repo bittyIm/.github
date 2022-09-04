@@ -11,7 +11,7 @@ A small but powerful instant messaging software
    - Login
    - Register
    - Reset password
-- user
+- User
    - User profile
    - User settings
 - Session
@@ -28,9 +28,14 @@ A small but powerful instant messaging software
    - Group member settings
    - Search for groups
    - Add groups
-- information
+- Information
    - Apply to be added as a friend
    - Agree to be added as friend
    - Apply to join group chat
    - Agree to join the group chat
    - Invite to join group chat
+- I18n
+   - cn
+   - en (TODO)
+   - jp (TODO)
+   - ru (TODO)
