@@ -35,7 +35,6 @@ A small but powerful instant messaging software
    - Agree to join the group chat
    - Invite to join group chat
 - I18n
+   - en 
    - cn
-   - en (TODO)
-   - jp (TODO)
-   - ru (TODO)
+
