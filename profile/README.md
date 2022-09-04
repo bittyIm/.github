@@ -34,6 +34,19 @@ A small but powerful instant messaging software
 - I18n
    - en 
    - cn
+- Message
+   - Markdown
+   - Image
+   - File
+   - Video
+   - Audio
 
-
+## PLAN
+   - Real-time audio and video messages
+   - Virtual account
+   - Cloud disk
+   - Collet
+   - Chat history content
+   
+   
 [![Server](https://github.com/bittyIm/bitty_serv/actions/workflows/go.yml/badge.svg)](https://github.com/bittyIm/bitty_serv/actions/workflows/go.yml) [![Client](https://github.com/bittyIm/bitty_vue/actions/workflows/node.js.yml/badge.svg)](https://github.com/bittyIm/bitty_vue/actions/workflows/node.js.yml)
