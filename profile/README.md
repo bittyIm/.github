@@ -13,7 +13,7 @@ A small but powerful instant messaging software
    - Reset password
 - user
    - User profile
-   - user settings
+   - User settings
 - Session
    - Hang
    - Reply
