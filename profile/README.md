@@ -1,4 +1,4 @@
-一个即时通信软件 
+用爱驱动开发的即时通信软件 
 
 
 [![Go](https://github.com/bittyIm/bitty_serv/actions/workflows/go.yml/badge.svg)](https://github.com/bittyIm/bitty_serv/actions/workflows/go.yml)
