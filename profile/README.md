@@ -41,7 +41,7 @@ A small but powerful instant messaging software
    - Video
    - Audio
 
-## PLAN
+## Plan
    - Real-time audio and video messages
    - Virtual account
    - Cloud disk
