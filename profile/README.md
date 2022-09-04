@@ -2,7 +2,7 @@ A small but powerful instant messaging software
 
 [English](https://github.com/bittyIm/.github/blob/main/profile/README.md)
 
-## Feature list
+## Funtion
 
 - Authorization
    - Login
