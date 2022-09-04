@@ -4,7 +4,7 @@ A small but powerful instant messaging software
 
 [![Node.js CI](https://github.com/bittyIm/bitty_vue/actions/workflows/node.js.yml/badge.svg)](https://github.com/bittyIm/bitty_vue/actions/workflows/node.js.yml)
 
-[English](https://markdown.com.cn) | [Chinese](https://markdown.com.cn)
+[English](https://github.com/bittyIm/.github/blob/main/profile/README.md) | [Chinese](https://github.com/bittyIm/.github/blob/main/profile/README.md)
 
 ## Feature list
 
