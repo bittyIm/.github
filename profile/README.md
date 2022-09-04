@@ -1,10 +1,6 @@
 A small but powerful instant messaging software
 
-[![Go](https://github.com/bittyIm/bitty_serv/actions/workflows/go.yml/badge.svg)](https://github.com/bittyIm/bitty_serv/actions/workflows/go.yml)
-
-[![Node.js CI](https://github.com/bittyIm/bitty_vue/actions/workflows/node.js.yml/badge.svg)](https://github.com/bittyIm/bitty_vue/actions/workflows/node.js.yml)
-
-[English](https://github.com/bittyIm/.github/blob/main/profile/README.md) | [Chinese](https://github.com/bittyIm/.github/blob/main/profile/README.md)
+[English](https://github.com/bittyIm/.github/blob/main/profile/README.md)
 
 ## Feature list
 
@@ -39,3 +35,5 @@ A small but powerful instant messaging software
    - en 
    - cn
 
+
+[![Server](https://github.com/bittyIm/bitty_serv/actions/workflows/go.yml/badge.svg)](https://github.com/bittyIm/bitty_serv/actions/workflows/go.yml) [![Client](https://github.com/bittyIm/bitty_vue/actions/workflows/node.js.yml/badge.svg)](https://github.com/bittyIm/bitty_vue/actions/workflows/node.js.yml)
