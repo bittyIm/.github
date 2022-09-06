@@ -8,6 +8,8 @@ A small but powerful instant messaging software
    - Login
    - Register
    - Reset password
+- Account
+   - Virtual account
 - User
    - User profile
    - User settings
@@ -34,6 +36,7 @@ A small but powerful instant messaging software
 - I18n
    - en 
    - cn
+- Cloud disk(alpha)
 - Message
    - Markdown
    - Image
@@ -43,8 +46,6 @@ A small but powerful instant messaging software
 
 ## Plan
    - Real-time audio and video messages
-   - Virtual account
-   - Cloud disk
    - Collet
    - Chat history content
    
