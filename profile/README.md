@@ -1,6 +1,5 @@
+一个小而精悍的im软件
 A small but powerful instant messaging software
-
-[English](https://github.com/bittyIm/.github/blob/main/profile/README.md)
 
 ## Funtion
 
