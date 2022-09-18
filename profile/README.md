@@ -1,5 +1,3 @@
-一个小而精悍的im软件
-
 A small but powerful instant messaging software
 
 ## Funtion
